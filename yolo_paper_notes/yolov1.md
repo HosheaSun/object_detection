@@ -68,8 +68,17 @@ YOLO是根据训练数据来预测bbox的，但是当测试数据中的物体出
 同时经过多次下采样，使得最终得到的feature的分辨率比较低，就是得到coarse feature，这可能会影响到物体的定位。
 损失函数的设计存在缺陷，使得物体的定位误差有点儿大，尤其在不同尺寸大小的物体的处理上还有待加强。
 
+## 参考文章：
 
+https://zhuanlan.zhihu.com/p/115759795
 
+https://zhuanlan.zhihu.com/p/63507794
+
+https://zhuanlan.zhihu.com/p/46691043
+
+https://zhuanlan.zhihu.com/p/24916786
+
+https://zhuanlan.zhihu.com/p/32525231
 
 
 
